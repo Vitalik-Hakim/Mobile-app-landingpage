@@ -4,7 +4,7 @@ full_description: 'Buy, Sell, or Rent anything in Ghana? TonFast.com has got you
 <br>With a lot of features:
 '
 android: https://play.google.com/store/apps/details?id=com.tonfast.twa
-iOS: https://tonfast.com/
+iOS: https://apps.apple.com/us/app/tonfast/id6449605352
 web: https://tonfast.com/
 screenshots:
   - 1.png
@@ -14,6 +14,6 @@ screenshots:
 producthunt: https://tonfast.com/
 companies:
   - url: https://tonfast.com/
-    image: androidpolice.png
+    image: androidpolicee.png
   - url: https://tonfast.com/
-    image: producthunt.png
+    image: producthunte.png
